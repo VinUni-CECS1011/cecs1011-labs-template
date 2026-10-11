@@ -12,7 +12,7 @@ Instructions: [course website](https://vinuni-cecs1011.github.io/) and [GitHub g
 
 ## Start here
 
-Leader: check owner **VinUni-CECS1011** and visibility **Private**. In **Settings → Collaborators and teams**, add the agreed teammates with **Write** and record this repository link in Canvas. Teammates accept any pending invitations.
+Team representative: check owner **VinUni-CECS1011** and visibility **Private**. In **Settings → Collaborators and teams**, add the agreed teammates with **Write** and record this repository link in Canvas. Teammates accept any pending invitations.
 
 Each member copies `onboarding/TEMPLATE.md` to `onboarding/<their-github-username>.md`, completes it, and commits using their own account.
 
