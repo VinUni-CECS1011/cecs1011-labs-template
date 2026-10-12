@@ -91,4 +91,4 @@ Add one row per member. Include physical, paired, analytical and documentation w
 
 Cite sources. Disclose permitted AI tools, purpose, relevant prompts/output used and how we checked or corrected it, or state that no AI was used. Keep private information out of the report and prompts.
 
-Before submitting, check that your measurement photos appear inside the report and follow the handout's checklist. Submit one permanent report link and the matching full commit SHA in Canvas; do not insert the SHA into this report.
+Before submitting, check that your measurement photos appear inside the report and follow the handout's checklist. Submit your ordinary Labs repository link and the latest full commit SHA once per team in Canvas before the deadline. The report is `labs/lab-01/README.md`; no permanent link is required. Do not insert the SHA into this report. If you revise the work, update the SHA in Canvas only when resubmission is allowed.
