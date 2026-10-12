@@ -20,6 +20,6 @@ Each member copies `onboarding/TEMPLATE.md` to `onboarding/<their-github-usernam
 
 When a later lab is released, add its starter to the corresponding `labs/lab-02/` through `labs/lab-06/` folder. Retain earlier work and add evidence files only as needed.
 
-Before each submission, check the required evidence and each member's contribution. Save with **Commit changes** on GitHub (or `git push` if working locally), then submit the permanent file links and full commit SHA in Canvas. Saving on GitHub does not submit the Canvas assignment.
+Before each submission, check the required evidence and each member's contribution. Save with **Commit changes** on GitHub (or `git push` if working locally), then submit the ordinary repository link, report file path and latest full commit SHA in Canvas before its deadline. No permanent link is required. Saving on GitHub does not submit the Canvas assignment; follow Canvas for permitted resubmissions.
 
 Keep the repository private. Keep credentials, student IDs, private feedback and sensitive data out of Git. Record allowed AI assistance and explain how the team checked it.
