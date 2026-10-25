@@ -1,64 +1,58 @@
 # Lab 2 – SHAPE: Explore and Design
 
-- Section (as shown in Canvas):
-- Team/group name (as shown in Canvas):
+- Team name:
 - Members' GitHub usernames:
 
 ## Classroom record
 
-### Concepts and team discussion
+### Concepts and selected reference
 
-- File type we would keep for editing, and why:
-- Difference between a CAD model, a slicer and machine instructions:
-- Proposed part, intended user and purpose:
-- One important dimension/interface and what needs measurement:
-- Reference title/creator/link/license, if used:
-- Reference material recommendation (or “not stated”) and one material consideration:
-- Proposed print orientation and one physical check:
+- Explain how the CAD model, slicer and printer perform different roles, and identify the file you would keep for later editing.
+- Describe the selected part's purpose and one important dimension or connection. Give the reference title, creator, link, license and available file types.
+- State the recommended material, or write “not stated.” Explain one material consideration and your proposed print orientation.
+- Propose one simple change for your intended use. If browsing is inaccessible, identify the supplied example or your own design route instead.
 
-### SolidWorks tutorial practice
+### Individual SolidWorks practice
 
 - Tutorial source:
-- Stage/step/time reached; one action or dimension we can explain:
-- Practice native file: `TEAMNAME-lab02-practice.SLDPRT` (replace with the actual link).
+- Stage reached:
+- Representative native file: `TEAMNAME-lab02-practice.SLDPRT` (replace this with the actual link).
 
-Insert **one representative practice screenshot**, captioned with the section, team name and reached stage. For example: `![Section and team: practice stage](practice.png)` using your uploaded filename. A short model label is optional; no raised/engraved name is required.
+Insert **one representative practice screenshot** and caption it with the team name and stage reached. For example, use `![Team name: practice stage](practice.png)` with your uploaded filename. Each member should describe their own practice operation in the contribution table below; separate individual submissions are not required.
 
-### Take-home plan
+### Team design begun in class
 
-- Part and one proposed requirement:
-- Chosen CAD software and how we will access it:
-- Next action or unresolved access issue:
+- State your part's purpose and one measurable requirement, with a reason. Identify the source of its dimensions and label assumptions.
+- Insert **one dimensioned starting sketch**, using a line such as `![Starting sketch](starting-sketch.png)` with your uploaded filename.
+- Link the initial CAD document and describe the sketch or first feature created in class. If the same file is updated later, its earlier version remains in Git history.
+- State which CAD software you will use after class and what remains to be completed. Record any unresolved access or modelling difficulty.
 
-## Take-home design
+## Design completed after class
 
 - CAD application/version:
-- Route: new design / reference adaptation / simplified reconstruction.
-- Need and specification; dimensions still assumed:
-- Source credits/license and limited scope, if applicable:
+- State whether you created a new model, adapted a reference or reconstructed a limited feature. Credit any reused source and identify the scope.
 
 | Dimension/check | Intended value and reason | CAD result and checking method |
 | --- | --- | --- |
 | Critical dimension | | |
 | Another relevant dimension | | |
 
-Insert **two images**: reference or own dimensioned starting sketch, and final model with checked dimensions. Use your uploaded filenames, for example `![Starting sketch](starting-sketch.png)` and `![Final model and checked dimensions](final-model.png)`. Add captions and reference credits.
+Insert **one final-model image** showing the checked dimensions, using a line such as `![Final model and checked dimensions](final-model.png)`. Retain the starting sketch in the classroom record. There should be **three images in total**, including the practice screenshot.
 
-- What we created/changed; revision or remaining problem:
-- Final native working-document link:
-- Final STL link; export units/settings and reopened/size-check status:
-- One proposed physical fit/function test:
+- Explain what you created or changed, any revision and any remaining limitation.
+- Link the final native CAD document and STL. State the export units or settings and whether you reopened the STL and checked its size.
+- Propose one physical test that would check the part's fit or function.
 
 ## Contributions
 
-Update as work develops. One row per member; each contributes under their own account.
+Use one row per member and update it as work develops. Each member should contribute using their own GitHub account and explain their individual practice and team design work.
 
-| GitHub username | Classroom contribution/result I can explain | Take-home contribution/result I can explain |
+| GitHub username | Individual practice operation I can explain | Team design contribution and result I can explain |
 | --- | --- | --- |
 | | | |
 
 ## Sources and AI use
 
-Other sources; any AI tool, relevant prompt/output and checks, or “No AI used”:
+List other sources. If AI was used, identify the tool, relevant prompt and output, and your verification or corrections. Otherwise, write “No AI used.”
 
-Before submission, check all files/links and the [Lab 2 handout](https://vinuni-cecs1011.github.io/labs/lab-02.html#save-and-submit). Include section, team, ordinary repository link, report path and full SHA in the Canvas record. Copy the latest full repository commit SHA after saving everything; keep it out of this report.
+Before submission, check the files and links against the [Lab 2 handout](https://vinuni-cecs1011.github.io/labs/lab-02.html#save-and-submit). Include your team name, ordinary repository link, report path and full SHA in the Canvas record. Copy the latest full repository commit SHA after saving everything; keep it out of this report.
