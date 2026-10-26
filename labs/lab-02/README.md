@@ -5,14 +5,23 @@
 
 ## Classroom record
 
-### Concepts and selected reference
+### 1. Explore CAD and the printing process
 
-- Explain how the CAD model, slicer and printer perform different roles, and identify the file you would keep for later editing.
-- Describe the selected part's purpose and one important dimension or connection. Give the reference title, creator, link, license and available file types.
-- State the recommended material, or write “not stated.” Explain one material consideration and your proposed print orientation.
-- Propose one simple change for your intended use. If browsing is inaccessible, identify the supplied example or your own design route instead.
+Answer each question in one or two sentences and identify the source you used.
 
-### Individual SolidWorks practice
+1. What does the CAD application do, what does the slicer do, and what does the printer do?
+2. For an initial sensor bracket, what advantage or limitation of PLA and PETG would affect your material choice?
+3. Which dimensions would you check to confirm that a part fits its component and the printer's build space? Why should you check an imported STL's size and units?
+4. Which file would you keep for future dimension changes, and when would STEP be useful?
+5. How could print orientation affect the need for temporary supports? Describe one example.
+
+### 2. Choose a design for the final project
+
+- Describe where the part would be used in your final project and what it would support, protect or position. Identify one important dimension or connection and label assumptions.
+- Give the reference title, creator, link, license and available file types. State the recommended material, or write “not stated,” and explain your proposed print orientation.
+- Propose one simple adaptation for your project. If browsing is inaccessible, identify the supplied example or your own design route and its project use instead.
+
+### 3. Practise SolidWorks individually
 
 - Tutorial source:
 - Stage reached:
@@ -20,7 +29,7 @@
 
 Insert **one representative practice screenshot** and caption it with the team name and stage reached. For example, use `![Team name: practice stage](practice.png)` with your uploaded filename. Each member should describe their own practice operation in the contribution table below; separate individual submissions are not required.
 
-### Team design begun in class
+### 4. Begin the team design
 
 - State your part's purpose and one measurable requirement, with a reason. Identify the source of its dimensions and label assumptions.
 - Insert **one dimensioned starting sketch**, using a line such as `![Starting sketch](starting-sketch.png)` with your uploaded filename.
