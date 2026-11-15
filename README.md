@@ -20,9 +20,11 @@ Each member copies `onboarding/TEMPLATE.md` to `onboarding/<their-github-usernam
 
 **Lab 2:** follow the four numbered activities in the [Lab 2 handout](https://vinuni-cecs1011.github.io/labs/lab-02.html) and use `labs/lab-02/README.md` for the shared report. Answer the five reading questions and select a useful part for your final project. Each member practises individually, then the team begins its design in class and completes it afterward. Save one representative practice image and file, a dimensioned starting sketch, and a final-model image with the design's native document and STL. If the folder is missing, follow the handout's steps to create `lab-02` inside `labs` and add its report. Updated templates do not change existing repositories automatically.
 
-When Labs 3–6 are released, add their starters to the corresponding folders. Retain earlier work.
+**Lab 3:** follow the [Sense → Process → Act handout](https://vinuni-cecs1011.github.io/labs/lab-03.html). Use `labs/lab-03/README.md` for the shared report. Build the Nano, light sensor, servo and required LCD simulation, then save its three source files and one screenshot beside the report. Add the shared Wokwi project link in the report. If the folder is missing, follow the handout's [report setup steps](https://vinuni-cecs1011.github.io/labs/lab-03.html#prepare-report). Updated templates do not add files to your existing repository automatically.
 
-Before each submission, check the required evidence and each member's contribution. Save with **Commit changes** on GitHub (or `git push` if working locally), then submit the team name, ordinary repository link, report file path and latest full commit SHA in Canvas before its deadline. No permanent link is required. Saving on GitHub does not submit the Canvas assignment; follow Canvas for permitted resubmissions.
+When Labs 4–6 are released, add their starters to the corresponding folders. Retain earlier work.
+
+Before each submission, check the required evidence and each member's contribution. Save with **Commit changes** on GitHub (or `git push` if working locally), then submit the team name, ordinary repository link, report file path and latest full commit SHA in Canvas before its deadline. For Lab 3, also include the shared Wokwi project link. A GitHub file permalink is not required. Saving on GitHub does not submit the Canvas assignment; follow Canvas for permitted resubmissions.
 
 Team numbers may repeat across sections. For a repository not yet created, include both section and team identifiers in its name, for example `f26-cecs1011-secSECTION-teamTEAM-labs`. Keep using an existing repository and preserve Lab 1; a rename is not required to add Lab 2.
 
