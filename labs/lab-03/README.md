@@ -15,8 +15,8 @@ Record your team's discussion in one or two sentences per question.
 2. In **Clock speed**, compare 16 MHz with the example laptop clock. Why does the frequency ratio alone not tell you how much faster a program will run?
 3. In **Analogue pins**, **Digital pins** and **Power and ground**, locate A0, D9, 5V and GND. Which connections carry information, and which provide power or a reference voltage?
 4. In **Built-in LED**, find D13 and try the control. Could A6 replace D13 as an output? Use the pin descriptions to explain your answer.
-5. What would electrical and electronic engineering contribute to the sensor and power connections, and what would computer science contribute to the decision program? Where must these designs agree?
-6. How could data science help select and evaluate a light threshold, and how could mechanical engineering turn servo motion into a useful shade? Which test would need evidence from both?
+5. Imagine building a smart light that turns on automatically when a room gets dark. Which Arduino pins could you use to connect a light sensor and an LED? What would the Arduino program need to decide?
+6. Imagine building an automatic window shade that closes when sunlight is too bright. How could you use readings from a light sensor to decide when to close the shade? What could you connect to the Arduino to physically move the shade?
 
 ### 1.2. Trace the program — Activity 2
 
