@@ -38,6 +38,8 @@ State the rule, including what happens at equality, and justify the threshold us
 
 Write predictions before running the tests. Record actual results separately and state whether each agrees. Mark an unexecuted test as “Not run.”
 
+Complete the first three rows in Activity 5, before adding the LCD; record its state as “Not added.” Restore `int reading = analogRead(A0);`, then add the LCD and complete the two live-test rows in Activity 6.
+
 | Test | Input value and source | Expected command and response | Observed command, virtual response and LCD state | Agreement or correction |
 | --- | --- | --- | --- | --- |
 | Below threshold | T − 1; injected software input | | | |
@@ -48,13 +50,13 @@ Write predictions before running the tests. Record actual results separately and
 
 Explain one correction or limitation. Distinguish the injected tests from tests using the simulated sensor.
 
-In the two live-test rows, record whether the LCD reading and command agree with the serial output and servo response.
+In the two live-test rows, record whether the LCD reading and command agree with the serial output and servo response. Use the handout’s [I2C explanation and connection table](https://vinuni-cecs1011.github.io/labs/lab-03.html#lcd-interface) to check the display wiring and address.
 
 Insert **one screenshot** showing the complete circuit, readable LCD and serial output during a live test. Use your actual filename, for example `![Circuit and live test](controller.png)`, and add a caption identifying the condition and response. The LCD must show your team or prototype label, current reading and commanded state. The other results belong in the table; additional screenshots are not required.
 
 ## 5. Connect to the final project
 
-In two or three sentences, describe one useful project input → decision → output chain. Identify the sensor signal and actuator interface, and one physical check still needed. Where relevant, relate sensor placement or moving-part clearance to your Lab 2 design.
+In two or three sentences, describe an input → decision → output chain useful for your final project. State how the sensor and output connect to the controller, and name one physical test. Use the handout’s [project examples](https://vinuni-cecs1011.github.io/labs/lab-03.html#project-examples) for guidance. Your Lab 2 mount or enclosure may support this design.
 
 ## Source files
 
