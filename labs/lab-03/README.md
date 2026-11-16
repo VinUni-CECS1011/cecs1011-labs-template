@@ -5,9 +5,24 @@
 - Members' GitHub usernames:
 - Shared Wokwi project link:
 
-## 1. Explain the program and connections
+## 1. Explore the Nano, program and connections
+
+### 1.1. Explore the Nano board — Activity 1
+
+Record your team's discussion in one or two sentences per question.
+
+1. In **Processor and memory**, identify the chip that runs your sketch. Which memory keeps the program when power is removed, and which memory loses its working data?
+2. In **Clock speed**, compare 16 MHz with the example laptop clock. Why does the frequency ratio alone not tell you how much faster a program will run?
+3. In **Analogue pins**, **Digital pins** and **Power and ground**, locate A0, D9, 5V and GND. Which connections carry information, and which provide power or a reference voltage?
+4. In **Built-in LED**, find D13 and try the control. Could A6 replace D13 as an output? Use the pin descriptions to explain your answer.
+5. What would electrical and electronic engineering contribute to the sensor and power connections, and what would computer science contribute to the decision program? Where must these designs agree?
+6. How could data science help select and evaluate a light threshold, and how could mechanical engineering turn servo motion into a useful shade? Which test would need evidence from both?
+
+### 1.2. Trace the program — Activity 2
 
 In one sentence, describe what happened to the startup and loop messages when you ran and restarted the Activity 2 program.
+
+### 1.3. Explain the connections — Activities 3 and 4
 
 Use one or two sentences for each explanation. Include a labelled sensor → controller → actuator chain; text is sufficient. Include the LCD as an additional output.
 
